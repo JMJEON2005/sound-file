@@ -1,1 +1,2 @@
-
+playSound('bgm');
+playSound('kill);
