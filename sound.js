@@ -1,2 +1,4 @@
 playSound('bgm');
-playSound('kill);
+playSound('kill');
+playSound('timer');  
+playSound('item');
